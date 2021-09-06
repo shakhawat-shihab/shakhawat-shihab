@@ -23,6 +23,10 @@
         title="https://www.hackerrank.com/shakhawat_shihab"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Shakhwat" height="30"
             width="40" color="blue" /></a>
+    <a href="https://stackoverflow.com/users/11052029/shakhawat-hossain-shihab" target="_blank"
+        title="https://stackoverflow.com/users/11052029/shakhawat-hossain-shihab"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Shakhwat" height="30"
+            width="40" color="blue" /></a>
     <a href="https://www.facebook.com/shakhawathossain.shihab" target="_blank"
         title="https://www.facebook.com/shakhawathossain.shihab"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Shakhwat" height="30"
