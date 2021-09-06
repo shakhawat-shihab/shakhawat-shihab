@@ -15,16 +15,20 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://codeforces.com/profile/SHAKHAWAT_SHIHAB" target="_blank" title="https://codeforces.com/profile/SHAKHAWAT_SHIHAB"><img align="center"
+    <a href="https://codeforces.com/profile/SHAKHAWAT_SHIHAB" target="_blank"
+        title="https://codeforces.com/profile/SHAKHAWAT_SHIHAB"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Shakhwat" height="30"
             width="40" color="blue" /></a>
-    <a href="https://www.hackerrank.com/shakhawat_shihab" target="_blank"><img align="center"
+    <a href="https://www.hackerrank.com/shakhawat_shihab" target="_blank"
+        title="https://www.hackerrank.com/shakhawat_shihab"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Shakhwat" height="30"
             width="40" color="blue" /></a>
-    <a href="https://www.facebook.com/shakhawathossain.shihab" target="_blank"><img align="center"
+    <a href="https://www.facebook.com/shakhawathossain.shihab" target="_blank"
+        title="https://www.facebook.com/shakhawathossain.shihab"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Shakhwat" height="30"
             width="40" /></a>
-    <a href="https://www.linkedin.com/in/shakhawat-hossain-shihab/" target="_blank"><img align="center"
+    <a href="https://www.linkedin.com/in/shakhawat-hossain-shihab" target="_blank"
+        title="https://www.linkedin.com/in/shakhawat-hossain-shihab"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Shakhawat" height="30"
             width="40" /></a>
 </p>
