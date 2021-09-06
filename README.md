@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shakhawat Hossain</h1>
+<h1 align="center">Hi 👋, I'm Shakhawat Hossain Shihab</h1>
 <h3 align="center">A passionate full-stack web developer from Bangladesh</h3>
 
 <p align="left"> <img
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://codeforces.com/profile/SHAKHAWAT_SHIHAB" target="_blank"><img align="center"
+    <a href="https://codeforces.com/profile/SHAKHAWAT_SHIHAB" target="_blank" title="https://codeforces.com/profile/SHAKHAWAT_SHIHAB"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Shakhwat" height="30"
             width="40" color="blue" /></a>
     <a href="https://www.hackerrank.com/shakhawat_shihab" target="_blank"><img align="center"
